@@ -89,7 +89,7 @@
     {
       "name": "FydeOS 20.0-SP1",
       "description": "FydeOS 20.0-SP1",
-      "icon": "https://www-img.fydeos.com/static/guidelines/Circle.png",
+      "icon": "https://downloads.raspberrypi.com/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
       "url": "https://download.fydeos.io/v20.0-SP1/FydeOS_for_SBC_Pi5_v20.0-SP1-io.bin.zip",
       "extract_size": 10219502080,
       "extract_sha256": "e8dbd80aa19593d92fb255cdf3efb37aea0184cb9c28d3277844a688d8f47c8f",
